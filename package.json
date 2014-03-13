@@ -1,0 +1,23 @@
+{
+  "name": "yqlient",
+  "description": "Simple nodejs connector for Yahoo Query Language (YQL)",
+  "version": "0.1.0",
+  "author": "Bachar Wehbi <me@bachwehbi.net>",
+  "homepage": "https://github.com/bachwehbi/yqlient",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bachwehbi/yqlient.git"
+  },
+  "keywords": [
+    "yql",
+    "rest",
+    "restful",
+    "yahoo",
+    "api"
+  ],
+  "main": "lib/yqlient.js",
+  "dependencies": {
+    "request": ">=2.27"
+  },
+  "license": "MIT"
+}
